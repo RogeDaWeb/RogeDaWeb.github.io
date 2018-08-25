@@ -8,3 +8,7 @@ body{
 #donostext{
 	font-size: 25px;
 }
+#vk{
+	position: relative;
+	top:50px;
+}
